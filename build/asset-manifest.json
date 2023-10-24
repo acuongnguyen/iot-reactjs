@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iot-reactjs/static/css/main.f8775e43.css",
+    "main.js": "/iot-reactjs/static/js/main.b23c6061.js",
+    "static/js/787.fade2e9e.chunk.js": "/iot-reactjs/static/js/787.fade2e9e.chunk.js",
+    "static/media/avt.jpg": "/iot-reactjs/static/media/avt.32ef1fe44d0d8c705ece.jpg",
+    "index.html": "/iot-reactjs/index.html",
+    "main.f8775e43.css.map": "/iot-reactjs/static/css/main.f8775e43.css.map",
+    "main.b23c6061.js.map": "/iot-reactjs/static/js/main.b23c6061.js.map",
+    "787.fade2e9e.chunk.js.map": "/iot-reactjs/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8775e43.css",
+    "static/js/main.b23c6061.js"
+  ]
+}
